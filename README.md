@@ -1,3 +1,26 @@
+# Password Strength Checker
+
+This is a simple web-based Password Strength Checker built with HTML, CSS, and JavaScript. It allows users to assess the strength of their passwords in real-time and provides visual feedback on their password's security level.
+
+## Features
+
+- **Real-Time Strength Evaluation**: As the user types, the strength of the password is evaluated based on length and character variety.
+- **Password Visibility Toggle**: Users can show or hide their password using a toggle button.
+- **Visual Feedback**: A strength bar and descriptive text indicate the strength of the password.
+
+## Demo
+
+You can view a live demo of the Password Strength Checker by opening the HTML file in your web browser.
+
+## Installation
+
+To use the Password Strength Checker, simply clone or download this repository and open the `index.html` file in a web browser. There is no need for additional installation or setup.
+
+```bash
+git clone https://github.com/your-username/password-strength-checker.git
+cd password-strength-checker
+open index.html
+
 ## Usage
 
 - **Enter Password**: Type a password into the input field.
