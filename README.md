@@ -16,10 +16,7 @@ You can view a live demo of the Password Strength Checker by opening the HTML fi
 
 To use the Password Strength Checker, simply clone or download this repository and open the `index.html` file in a web browser. There is no need for additional installation or setup.
 
-```bash
-git clone https://github.com/your-username/password-strength-checker.git
-cd password-strength-checker
-open index.html
+
 
 ## Usage
 
