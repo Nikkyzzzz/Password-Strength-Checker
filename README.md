@@ -1,4 +1,4 @@
-# Password Strength Checker
+# [Password Strength Checker](https://nikkyzzzz.github.io/Password-Strength-Checker/)
 
 This is a simple web-based Password Strength Checker built with HTML, CSS, and JavaScript. It allows users to assess the strength of their passwords in real-time and provides visual feedback on their password's security level.
 
